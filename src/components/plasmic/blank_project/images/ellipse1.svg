@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 167 163">
+  <g filter="url(#TG4si123Ja)">
+    <ellipse cx="83.5" cy="81.5" rx="83.5" ry="81.5" fill="#fff"/>
+    <path d="M166.5 81.5c0 44.724-37.149 81-83 81s-83-36.276-83-81 37.149-81 83-81 83 36.276 83 81z" stroke="url(#TG4si123Jb)"/>
+  </g>
+  <defs>
+    <linearGradient id="TG4si123Jb" x1="0" y1="0" x2="163.012" y2="164.507" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="TG4si123Ja" x="-4" y="-4" width="175" height="171" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feGaussianBlur in="BackgroundImageFix" stdDeviation="2"/>
+      <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_101_11296"/>
+      <feBlend in="SourceGraphic" in2="effect1_backgroundBlur_101_11296" result="shape"/>
+    </filter>
+  </defs>
+</svg>

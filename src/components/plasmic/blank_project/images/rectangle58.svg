@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 350 173">
+  <g filter="url(#Og3X3hC1ea)">
+    <path d="M1 1h348v145.853H182.5V172h-91v-25.147h-9V172H5v-25.147l-4-5.029V1z" fill="url(#Og3X3hC1eb)" fill-opacity=".5"/>
+    <path d="M1 .5H.5v141.498l.109.137 3.891 4.893V172.5H83v-25.147h8V172.5h92v-25.147h166.5V.5H1z" stroke="url(#Og3X3hC1ec)"/>
+    <path d="M1 .5H.5v141.498l.109.137 3.891 4.893V172.5H83v-25.147h8V172.5h92v-25.147h166.5V.5H1z" stroke="url(#Og3X3hC1ed)"/>
+    <path d="M1 .5H.5v141.498l.109.137 3.891 4.893V172.5H83v-25.147h8V172.5h92v-25.147h166.5V.5H1z" stroke="url(#Og3X3hC1ee)"/>
+  </g>
+  <defs>
+    <radialGradient id="Og3X3hC1ec" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-222.02508 -101.26223 59.52938 -130.52266 171 71.771)">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="Og3X3hC1ed" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="rotate(19.811 -119.997 525.498) scale(221.935 102.832)">
+      <stop stop-color="#17B384"/>
+      <stop offset="1" stop-color="#17B384" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="Og3X3hC1ee" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="rotate(157.935 78.503 52.555) scale(205.776 107.08)">
+      <stop stop-color="#151515"/>
+      <stop offset="1" stop-color="#151515" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="Og3X3hC1eb" x1="-3" y1="-1.155" x2="42.041" y2="209.481" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="Og3X3hC1ea" x="-42" y="-42" width="434" height="257" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feGaussianBlur in="BackgroundImageFix" stdDeviation="21"/>
+      <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_88_9646"/>
+      <feBlend in="SourceGraphic" in2="effect1_backgroundBlur_88_9646" result="shape"/>
+    </filter>
+  </defs>
+</svg>

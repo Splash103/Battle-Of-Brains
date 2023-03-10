@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 10">
+  <circle cx="5" cy="5" r="5" fill="url(#hUKA_C4rtja)"/>
+  <defs>
+    <linearGradient id="hUKA_C4rtja" x1="-1.25" y1="-1.25" x2="10" y2="10" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00FD47"/>
+      <stop offset="1" stop-color="#00FD47" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 90 84">
+  <g filter="url(#b5Fu9ws0La)">
+    <ellipse cx="44.756" cy="41.76" rx="44.756" ry="41.76" fill="#fff"/>
+    <path d="M89.012 41.76c0 22.756-19.78 41.26-44.256 41.26C20.281 83.02.5 64.517.5 41.76.5 19.005 20.28.5 44.756.5c24.475 0 44.256 18.505 44.256 41.26z" stroke="url(#b5Fu9ws0Lb)"/>
+  </g>
+  <defs>
+    <linearGradient id="b5Fu9ws0Lb" x1="0" y1="0" x2="83.408" y2="88.05" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="b5Fu9ws0La" x="-4" y="-4" width="97.512" height="91.521" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feGaussianBlur in="BackgroundImageFix" stdDeviation="2"/>
+      <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_101_11294"/>
+      <feBlend in="SourceGraphic" in2="effect1_backgroundBlur_101_11294" result="shape"/>
+    </filter>
+  </defs>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
+  <g filter="url(#kfumIZZPda)">
+    <circle cx="7" cy="7" r="6.5" stroke="url(#kfumIZZPdb)"/>
+  </g>
+  <defs>
+    <linearGradient id="kfumIZZPdb" x1="0" y1="0" x2="14" y2="13.79" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="kfumIZZPda" x="-4" y="-4" width="22" height="22" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feGaussianBlur in="BackgroundImageFix" stdDeviation="2"/>
+      <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_88_9656"/>
+      <feBlend in="SourceGraphic" in2="effect1_backgroundBlur_88_9656" result="shape"/>
+    </filter>
+  </defs>
+</svg>

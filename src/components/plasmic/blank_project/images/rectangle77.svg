@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 342 500">
+  <g filter="url(#yUPQSeWFka)">
+    <path d="M1 16.152C1 7.784 7.961 1 16.549 1H325.45C334.039 1 341 7.784 341 16.152v467.696c0 8.368-6.961 15.152-15.549 15.152H16.549C7.96 499 1 492.216 1 483.848V16.152z" fill="url(#yUPQSeWFkb)" fill-opacity=".5"/>
+    <path d="M325.451.5H16.549C7.698.5.5 7.496.5 16.152v467.696c0 8.656 7.198 15.652 16.049 15.652H325.45c8.851 0 16.049-6.996 16.049-15.652V16.152C341.5 7.496 334.302.5 325.451.5z" stroke="url(#yUPQSeWFkc)"/>
+    <path d="M325.451.5H16.549C7.698.5.5 7.496.5 16.152v467.696c0 8.656 7.198 15.652 16.049 15.652H325.45c8.851 0 16.049-6.996 16.049-15.652V16.152C341.5 7.496 334.302.5 325.451.5z" stroke="url(#yUPQSeWFkd)"/>
+    <path d="M325.451.5H16.549C7.698.5.5 7.496.5 16.152v467.696c0 8.656 7.198 15.652 16.049 15.652H325.45c8.851 0 16.049-6.996 16.049-15.652V16.152C341.5 7.496 334.302.5 325.451.5z" stroke="url(#yUPQSeWFke)"/>
+  </g>
+  <defs>
+    <radialGradient id="yUPQSeWFkc" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="rotate(-122.103 154.642 77.707) scale(408.167 286.112)">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="yUPQSeWFkd" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(204.00194 256.82422 -181.75654 144.3738 171 249.997)">
+      <stop stop-color="#17B384"/>
+      <stop offset="1" stop-color="#17B384" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="yUPQSeWFke" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="rotate(125.219 20.732 169.301) scale(323.078 227.513)">
+      <stop stop-color="#151515"/>
+      <stop offset="1" stop-color="#151515" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="yUPQSeWFkb" x1="1" y1="1" x2="361.633" y2="483.581" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".4"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="yUPQSeWFka" x="-42" y="-42" width="426" height="584" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feGaussianBlur in="BackgroundImageFix" stdDeviation="21"/>
+      <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_88_9768"/>
+      <feBlend in="SourceGraphic" in2="effect1_backgroundBlur_88_9768" result="shape"/>
+    </filter>
+  </defs>
+</svg>
